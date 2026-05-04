@@ -3,4 +3,3 @@ pandas
 flask
 plotly
 scikit-learn
-sqlite3
